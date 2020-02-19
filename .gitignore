@@ -1,0 +1,7 @@
+.vscode
+venv
+Planet*
+Min_json.txt
+*.jpg
+*.pyc
+*.mp4

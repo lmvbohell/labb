@@ -1,0 +1,10 @@
+2019-11-28 09:40:21,940:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "log_level.py", line 113, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2019-11-28 15:14:13,246:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "H:\home\bohell\Python_Workspace\CoreyS\log_level.py", line 113, in divide
+    result = x / y
+ZeroDivisionError: division by zero
